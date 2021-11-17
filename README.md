@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje cursando ensino médio técnico de informática
-- 🌱 Estudando JavaScript e CSS
+- 🌱 Estudando JavaScript, PHP e CSS
 - 📫 enzo.dante.m@gmail.com
 - 😄 Pronouns: ele/dele
 
