@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Enzo Dante
 
 
-- 🔭 Hoje cursando ensino médio técnico de informática
-- 🌱 Estudando JavaScript, ReactJS e CSS
+- 🔭 Hoje cursando Ciência da Computação
 - 📫 enzo.dante.m@gmail.com
 - 😄 Pronouns: ele/dele
 
