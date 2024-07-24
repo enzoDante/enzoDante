@@ -3,7 +3,6 @@
 
 - 🔭 Hoje cursando Ciência da Computação
 - 📫 enzo.dante.m@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
